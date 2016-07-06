@@ -9,10 +9,10 @@ class App extends Component {
 
   render () {
     return (
-        <span>
+        <div>
             <h1>Welcome to Awesomeness</h1>
             <Compliments compliment="You're awesome"/>
-        </span>
+        </div>
     )
   }
 
